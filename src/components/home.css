@@ -129,6 +129,6 @@ a.btn:hover {
   color: white;
 }
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.css-viwgfh {
-    background: none;
-    box-shadow: none;
+    background: none !important;
+    box-shadow: none !important;
 }
